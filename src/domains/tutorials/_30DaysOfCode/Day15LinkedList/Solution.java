@@ -1,4 +1,4 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day15LinkedList;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ class Node {
 
 }
 
-public class Day15LinkedList {
+public class Solution {
 	public static Node insert(Node head, int data) {
 		Node n = new Node(data);
 

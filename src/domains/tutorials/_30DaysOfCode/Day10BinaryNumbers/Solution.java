@@ -1,9 +1,9 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day10BinaryNumbers;
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Day10BinaryNumbers {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		BigInteger n = in.nextBigInteger();

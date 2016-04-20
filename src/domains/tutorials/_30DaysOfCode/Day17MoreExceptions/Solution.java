@@ -1,4 +1,4 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day17MoreExceptions;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ class Calculator {
 	}
 }
 
-public class Day17MoreExceptions {
+public class Solution {
 	public static void main(String[] argh) {
 		Scanner in = new Scanner(System.in);
 		int T = in.nextInt();

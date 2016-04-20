@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day00HelloWorld;
 
 import java.util.Scanner;
 
-public class Day00HelloWorld {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String inputString = in.nextLine();

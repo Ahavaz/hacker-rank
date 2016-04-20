@@ -1,14 +1,14 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day04ClassVsInstance;
 
 import java.util.Scanner;
 
-public class Day04ClassVsInstance {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int T = in.nextInt();
 		for (int i = 0; i < T; i++) {
 			int age = in.nextInt();
-			Day04ClassVsInstance.Person p = new Day04ClassVsInstance().new Person(age);
+			Solution.Person p = new Solution().new Person(age);
 			p.amIOld();
 			for (int j = 0; j < 3; j++) {
 				p.yearPasses();

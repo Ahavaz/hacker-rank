@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day13AbstractClasses;
 
 import java.util.Scanner;
 
-public class Day13AbstractClasses {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String title = sc.nextLine();

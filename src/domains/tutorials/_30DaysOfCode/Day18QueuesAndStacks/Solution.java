@@ -1,10 +1,10 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day18QueuesAndStacks;
 
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Day18QueuesAndStacks {
+public class Solution {
 	Stack<Character> stack = new Stack<>();
 	LinkedList<Character> queue = new LinkedList<>();
 
@@ -33,7 +33,7 @@ public class Day18QueuesAndStacks {
 		char[] s = input.toCharArray();
 
 		// Create a Solution object:
-		Day18QueuesAndStacks p = new Day18QueuesAndStacks();
+		Solution p = new Solution();
 
 		// Enqueue/Push all chars to their respective data structures:
 		for (char c : s) {

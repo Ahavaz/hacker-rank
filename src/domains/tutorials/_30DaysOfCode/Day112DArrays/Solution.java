@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day112DArrays;
 
 import java.util.Scanner;
 
-public class Day112DArrays {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int arr[][] = new int[6][6];

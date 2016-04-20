@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day02Operators;
 
 import java.util.Scanner;
 
-public class Day02Operators {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		double mealCost = scan.nextDouble(); // original meal price

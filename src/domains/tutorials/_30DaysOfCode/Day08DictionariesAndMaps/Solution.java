@@ -1,10 +1,10 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day08DictionariesAndMaps;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Day08DictionariesAndMaps {
+public class Solution {
 	public static void main(String[] argh) {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();

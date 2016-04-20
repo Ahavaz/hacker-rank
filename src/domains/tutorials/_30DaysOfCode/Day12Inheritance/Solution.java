@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day12Inheritance;
 
 import java.util.Scanner;
 
-public class Day12Inheritance {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		String firstName = scan.next();

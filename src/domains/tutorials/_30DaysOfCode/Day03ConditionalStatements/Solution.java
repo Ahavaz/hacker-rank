@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day03ConditionalStatements;
 
 import java.util.Scanner;
 
-public class Day03ConditionalStatements {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();

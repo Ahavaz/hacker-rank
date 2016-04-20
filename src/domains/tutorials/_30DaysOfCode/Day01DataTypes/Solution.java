@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day01DataTypes;
 
 import java.util.Scanner;
 
-public class Day01DataTypes {
+public class Solution {
 	public static void main(String[] args) {
 		int i = 4;
 		double d = 4.0;

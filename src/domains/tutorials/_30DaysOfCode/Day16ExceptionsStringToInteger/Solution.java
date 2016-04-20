@@ -1,8 +1,8 @@
-package domains.tutorials._30DaysOfCode;
+package domains.tutorials._30DaysOfCode.Day16ExceptionsStringToInteger;
 
 import java.util.Scanner;
 
-public class Day16ExceptionsStringToInteger {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String s = in.next();
