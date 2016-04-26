@@ -1,6 +1,6 @@
 # Hacker Rank :octocat:
 
-### 30 Days of Code `Java`
+### 30 Days of Code `C` `C++` `C#` `Java` `Swift`
 
 - [x] [Day 0: Hello, World.](https://github.com/Ahavaz/hacker-rank/blob/master/src/domains/tutorials/_30DaysOfCode/Day00HelloWorld/Solution.java)
 - [x] [Day 1: Data Types](https://github.com/Ahavaz/hacker-rank/blob/master/src/domains/tutorials/_30DaysOfCode/Day01DataTypes/Solution.java)
