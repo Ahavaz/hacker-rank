@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Solution {
-	public static void main(String[] argh) {
+	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
 		Map<String, String> phoneBook = new HashMap<String, String>();
